@@ -1,0 +1,6 @@
+﻿token=NjMxODkwMjE4NTI1NTIzOTcw.XZ9buw.wfatSWMzM3gtjqqmpzjs3_raC6I 
+owner=ادي بتعك 
+prefix=t
+game=!thelp
+stayinchannel=true
+songinstatus=true 
